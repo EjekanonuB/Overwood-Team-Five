@@ -65,6 +65,54 @@ body {
         color: #2cd4d6;
         font-size: 3.5rem;
     }
+     .missionImg {
+        padding-top: 300px;
+        padding-bottom: 250px;
+        background: url(./Images/coporate\ image.jpg) no-repeat center center;
+        background-size: cover;
+    }
+
+    .missionSection {
+        margin-bottom: 50px;
+    }
+
+    .missionText {
+        background-color: #1e266d;
+        color: #ffffff;
+        font-family: Poppins, sans-serif;
+        padding: 50px 50px;
+        letter-spacing: 1px;
+    }
+
+    .missionText h3 {
+        padding-bottom: 5px;
+        font-size: 12px;
+        color: #88e1e7;
+    }
+
+    .missionText h1 {
+        padding-bottom: 30px;
+        font-weight: 800;
+    }
+
+    .missionText .value1,
+    .value2,
+    .value3 {
+        font-size: 10px;
+        line-height: 2;
+    }
+
+    .missionText .value1,
+    .value2 {
+        margin-bottom: 40px;
+    }
+
+    .signSection img {
+        max-width: 100px;
+        max-height: 100px;
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
 }
 
 @media (max-width: 480px) {
